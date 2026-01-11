@@ -1,5 +1,9 @@
 # TabSweep
 
+To beat my own procrastination, and having 100 tabs open. I simply export all the links after I use `tab session`, then I write `done`, then that's all stored for Obsidian. It's for the hoarder who can't *stand* to have an important link lost. 
+
+Throwaway code, this one. I'll have to make it better but served the purpose. 
+
 A CLI tool to categorize and organize browser tabs into Obsidian notes using rule-based classification and AI.
 
 ## Features
